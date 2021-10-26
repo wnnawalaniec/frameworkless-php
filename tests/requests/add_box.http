@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/box
+Content-Type: application/json
+
+{
+  "name": "Box X",
+  "capacity": 1000
+}
+
+###
